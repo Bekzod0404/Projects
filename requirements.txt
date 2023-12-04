@@ -1,0 +1,6 @@
+PyAutoGUI~=0.9.54
+opencv-python~=4.8.0.76
+mediapipe~=0.10.5
+numpy~=1.26.0
+comtypes~=1.2.0
+pycaw~=20230407
